@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'conhecimentos gerais',
+    'Quais o menor e o maior país do mundo?',
+    'Vaticano e Rússia.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'conhecimentos gerais',
+    'De onde é a invenção do chuveiro elétrico?',
+    'Brasil'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'conhecimentos gerais',
+    'O que a palavra legend significa em português?',
+    'Lenda'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'conhecimentos gerais',
+    'Qual a montanha mais alta do Brasil?  a) Pico da Neblina   b) Pico Paraná    c) Monte Roraima  d) Pico Maior de Friburgo  e) Pico da Bandeira',
+    'Pico da Neblina'
 )
